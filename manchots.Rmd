@@ -17,5 +17,5 @@ Le  [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-
 install.packages('palmerpenguins)
 ```
 
-L'objectif de cette classe est de proposer des représentations graphiques de ces données collaborant à l'aide de l'outil git.
+L'objectif de cette classe est de proposer des représentations graphiques de ces données en collaborant à l'aide de l'outil git.
 
